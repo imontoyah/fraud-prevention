@@ -50,16 +50,10 @@ fraud-prevention/
 
 ## Datos
 
-El notebook espera el dataset de entrada en `data/fraud_meli_dataset.csv`. Dado que no se incluye en
-el repositorio, se debe descargar desde la URL indicada en el enunciado y colocarlo en esa ruta.
+El notebook espera el dataset de entrada en la ruta `data/fraud_meli_dataset.csv`. Dado que no se incluye en
+el repositorio, se debe descargar desde la URL indicada en el enunciado y colocarlo en esa ruta con el nombre especificado.
 
 ## Ejecución
-
-Iniciar Jupyter dentro del entorno:
-
-```bash
-uv run jupyter lab      # o: uv run jupyter notebook
-```
 
 Ejecutar los notebooks **en orden**, ya que cada uno depende del anterior:
 
