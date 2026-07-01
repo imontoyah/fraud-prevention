@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Report (se entrega como PDF aparte, no en el repo)
+report/
+
+# Datos (se descargan; ver README)
+data/*.csv
+data/processed/
